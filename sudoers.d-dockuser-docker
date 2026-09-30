@@ -1,0 +1,2 @@
+# dockuser: право перезапускать Docker (hw14 звёздочка)
+dockuser ALL=(root) NOPASSWD: /usr/bin/systemctl restart docker, /bin/systemctl restart docker
